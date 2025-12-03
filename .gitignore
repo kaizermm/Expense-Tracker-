@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# SQLite database
+expenses.db
+
+# Logs
+logs/
+*.log
+
+# Reports (optional – you can track them if you want)
+reports/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
